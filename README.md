@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.PNG)
 
-Projeto construído no site Udemy - Desenvolvimento Web Completo 2022
+Projeto construído no curso Udemy - Desenvolvimento Web Completo 2022
 
 [Clique aqui para acessar](https://jonathandscoutinho.github.io/udemy-unes-university/)
 
